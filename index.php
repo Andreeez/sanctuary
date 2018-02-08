@@ -10,7 +10,6 @@
             <label>Apor</label>
             <input type="number" name="numberAnimal">
             <button type="submit">Skicka iväg möget</button>
-
         </form>
     </body>
 </html>
